@@ -1,0 +1,28 @@
+# Ignorar carpeta target/
+target/
+
+# Ignorar archivos de IDE
+.idea/
+*.iml
+.vscode/
+
+# Ignorar archivos de macOS
+**/.DS_Store
+
+# Ignorar archivos de registro
+**/*.log
+
+# Ignorar carpeta out/ de IntelliJ
+**/out/
+
+# Ignorar archivos de configuración local
+*.properties
+*.env
+
+# Ignorar dependencias de Maven
+~/.m2/
+
+# Ignorar archivos de Maven Wrapper
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
