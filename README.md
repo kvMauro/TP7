@@ -4,7 +4,7 @@
 
 #### Laboratorio de computación IV
 
-# TP 4 - Ejercicios de aplicaciones web (JSP - Servlets)
+# TP 7 - Ejercicios de aplicaciones web (JSP - Servlets)
 
 <b>IMPORTANTE:</b> Es obligatorio trabajar con Servlets. La lógica debe estar en los Servlets.
 
